@@ -12,11 +12,11 @@
   },
   {
     "id": 1,
-    "label": "默认目录",
+    "label": "API接口文档",
     "children": [
       {
         "id": 2,
-        "label": "示例笔记",
+        "label": "设计器接口",
         "link": "articles/test.md"
       }
     ]
