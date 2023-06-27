@@ -1,2 +1,5 @@
-# xp-docs
-迅排设计文档
+# FEbook
+
+笔记站点
+
+本地启动：docsify serve docs
