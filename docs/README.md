@@ -1,10 +1,5 @@
-<!--
- * @Author: ShawnPhang
- * @LastEditors: ShawnPhang
- * @Description: 
- * blog.palxp.com/book.palxp.com
--->
+# 迅排设计
 
-# Any Note Book
+一款漂亮易用的在线海报图片设计器，仿稿定设计。
 
-基于Docsify驱动，部署在GithubPages。
+让你轻松实现创意，迅速进行排版，感受云上设计带来的乐趣！
