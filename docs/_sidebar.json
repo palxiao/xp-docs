@@ -18,6 +18,12 @@
         "id": 2,
         "label": "设计器接口",
         "link": "articles/test.md"
+      },
+      {
+        "id": "BF-Md23OD4o7tGtYiPBLi",
+        "label": "图片生成器接口",
+        "children": [],
+        "link": "articles/1687854631641.md"
       }
     ]
   }
