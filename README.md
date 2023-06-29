@@ -1,5 +1,3 @@
-# FEbook
+迅排设计开源地址：
 
-笔记站点
-
-本地启动：docsify serve docs
+https://github.com/palxiao/PalxpDesign
