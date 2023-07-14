@@ -14,6 +14,15 @@
 - 支持上传 PSD 文件解析成模板，方便导入设计图
 - 提供 AI 抠图功能，上传图片一键去除背景
 
+### 支持功能
+
+- 导入PSD设计稿，导出图片下载
+- 元素拖拽、组合、缩放、层级调整、对齐操作。
+- 图片素材插入、替换、裁剪，图片容器功能，图像抠图。
+- SVG素材、颜色、透明度设置。
+- 画布自定义尺寸、放大缩小、自适应画布、辅助线、标尺功能。
+- 键盘快捷键、右键菜单快捷操作。
+
 -----
 
 <div style="font-size:12px;color:#888888"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>，<span id="busuanzi_container_site_pv">共有<span id="busuanzi_value_site_uv"></span>位小伙伴在此留下足迹。</span> <a href="https://support.qq.com/product/496599">公共留言板</a></div>
