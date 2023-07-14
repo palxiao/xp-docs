@@ -5,7 +5,7 @@
 
 无需下载软件即可轻松实现创意，迅速完成排版，适用于多种场景：海报图片生成、电商分享图、文章长图、视频/公众号封面等，感受云上设计带来的便捷与乐趣，让设计更简单！
 
-<a class="v-button" target="_blank" href="https://design.palxp.com/">在线体验</a> <a class="v-button-plain" href="https://github.com/palxiao/PalxpDesign">项目源码</a>
+<a class="v-button" target="_blank" href="https://design.palxp.com/">在线体验</a> <a class="v-button-plain" href="https://github.com/palxiao/PalxpDesign">Github源码</a>
 
 ## 特点
 
