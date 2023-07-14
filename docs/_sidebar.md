@@ -8,8 +8,8 @@
 * API接口文档
     * [设计器接口](https://xp.palxp.com/apidoc/index.html)
     * [图片生成器接口](https://xp.palxp.com/apidoc/screenshot.html)
-* 更多
-    * [稿定设计出图方案](articles/1689320598619.md)
 * 深入了解
     * [相关技术文章](articles/1689321018561.md)
     * [项目架构](articles/1689321259854.md)
+* 更多
+    * [稿定设计出图方案](articles/1689320598619.md)

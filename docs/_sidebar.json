@@ -59,18 +59,6 @@
     "link": ""
   },
   {
-    "id": "jxn0J84QQN-mTSpmNeFA2",
-    "label": "更多",
-    "children": [
-      {
-        "id": "A9_nDL1ouzylN7mf8ahuW",
-        "label": "稿定设计出图方案",
-        "children": [],
-        "link": "articles/1689320598619.md"
-      }
-    ]
-  },
-  {
     "id": "1StVqyJChdQPvDCFF1Ij6",
     "label": "深入了解",
     "children": [
@@ -85,6 +73,18 @@
         "label": "项目架构",
         "children": [],
         "link": "articles/1689321259854.md"
+      }
+    ]
+  },
+  {
+    "id": "jxn0J84QQN-mTSpmNeFA2",
+    "label": "更多",
+    "children": [
+      {
+        "id": "A9_nDL1ouzylN7mf8ahuW",
+        "label": "稿定设计出图方案",
+        "children": [],
+        "link": "articles/1689320598619.md"
       }
     ]
   }
