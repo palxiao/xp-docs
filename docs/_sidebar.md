@@ -8,3 +8,4 @@
     * [图片生成器接口](https://xp.palxp.com/apidoc/screenshot.html)
 * 关于项目
     * [项目起源](articles/1689319986889.md)
+    * 私有部署
