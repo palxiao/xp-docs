@@ -1,14 +1,21 @@
 [
   {
-    "id": "2MigXuKqErGHm2c26Bpez",
-    "label": "简介",
-    "children": [],
-    "link": "articles/1687849059649.md"
-  },
-  {
     "id": "v8imeAMx3REzYr6d66F71",
-    "label": "快速开始",
-    "children": []
+    "label": "指南",
+    "children": [
+      {
+        "id": "2MigXuKqErGHm2c26Bpez",
+        "label": "简介",
+        "children": [],
+        "link": "articles/1687849059649.md"
+      },
+      {
+        "id": "tdT7BCIjThtMKVrb2d_2s",
+        "label": "快速开始",
+        "children": [],
+        "link": "articles/1689319644311.md"
+      }
+    ]
   },
   {
     "id": "36RnU_2Ui9HcGJQOLphBA",
