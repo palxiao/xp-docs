@@ -7,7 +7,7 @@
 
 <a class="v-button" target="_blank" href="https://design.palxp.com/">在线体验</a> <a class="v-button-plain" href="https://github.com/palxiao/PalxpDesign">Github源码</a>
 
-## 特点
+### 特点
 
 - 丝滑的操作体验，丰富的交互细节，基础功能完善
 - 采用服务端生成图片，天然支持更强大的特性（如蒙层、文字特效等）
