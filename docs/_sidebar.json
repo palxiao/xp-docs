@@ -14,6 +14,17 @@
         "label": "快速开始",
         "children": [],
         "link": "articles/1689319644311.md"
+      },
+      {
+        "id": "8e_a4JVKdCpd4oKHrtD2y",
+        "label": "项目起源",
+        "children": [],
+        "link": "articles/1689319986889.md"
+      },
+      {
+        "id": "YrvmEhZ7nbHkxeCJwqfoe",
+        "label": "私有部署",
+        "children": []
       }
     ]
   },
@@ -49,18 +60,13 @@
   },
   {
     "id": "jxn0J84QQN-mTSpmNeFA2",
-    "label": "关于项目",
+    "label": "更多",
     "children": [
       {
-        "id": "8e_a4JVKdCpd4oKHrtD2y",
-        "label": "项目起源",
+        "id": "A9_nDL1ouzylN7mf8ahuW",
+        "label": "稿定设计出图方案",
         "children": [],
-        "link": "articles/1689319986889.md"
-      },
-      {
-        "id": "YrvmEhZ7nbHkxeCJwqfoe",
-        "label": "私有部署",
-        "children": []
+        "link": "articles/1689320598619.md"
       }
     ]
   }
