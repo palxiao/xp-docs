@@ -1,4 +1,4 @@
-<img src="../images/2023-7-14-1689304654662.png" style="width: 45%; margin: -90px 0 -16px -60px;" >
+<img src="../images/2023-7-14-1689304654662.png" style="width: 35%;margin: 0 0 -57px -60px;transform: translateY(-43px);" >
 
 **一款漂亮且功能强大的在线海报图片设计器，仿造稿定设计。**
 
