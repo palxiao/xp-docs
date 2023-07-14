@@ -5,14 +5,14 @@
 
 无需下载软件即可轻松实现创意，迅速完成排版，适用于多种场景：海报图片生成、电商分享图、文章长图、视频/公众号封面等，感受云上设计带来的便捷与乐趣，让设计更简单！
 
+<div class="v-button" href="https://design.palxp.com/">在线体验</div> <div class="v-button-plain" href="https://github.com/palxiao/PalxpDesign">项目源码</div>
+
 ## 特点
 
 - 丝滑的操作体验，丰富的交互细节，基础功能完善
 - 采用服务端生成图片，天然支持更强大的特性（如蒙层、文字特效等）
 - 支持上传 PSD 文件解析成模板，方便导入设计图
 - 提供 AI 抠图功能，上传图片一键去除背景
-
-<div class="v-button" href="https://design.palxp.com/">在线体验</div> <div class="v-button-plain" href="https://github.com/palxiao/PalxpDesign">项目源码</div>
 
 -----
 
