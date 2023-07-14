@@ -5,6 +5,30 @@
   right: 8.5rem;
 }
 
+.v-button-plain, .v-button {
+  cursor: pointer;
+  margin: 1em 0;
+    font-size: 1.05em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    min-width: 8em;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.75em 2em;
+    border-radius: 2em;
+    display: inline-block;
+    color: #4fc08d;
+    transition: all 0.15s ease;
+    box-sizing: border-box;
+    border: 1px solid #4fc08d;
+    margin-right: 1em;
+}
+
+.v-button {
+  color: #ffffff;
+  background-color: #4fc08d;
+}
+
 /* #busuanzi_container_site_pv,
 #busuanzi_container_site_uv {
   position: fixed;

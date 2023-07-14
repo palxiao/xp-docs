@@ -1,4 +1,5 @@
-<img src="../images/2023-7-14-1689304654662.png" style="width: 35%;margin: 0 0 -57px -60px;transform: translateY(-43px);" >
+
+<img src="../images/logo.png" style="width: 35%;margin: 0 0 -57px -60px;transform: translateY(-43px);" >
 
 **一款漂亮且功能强大的在线海报图片设计器，仿造稿定设计。**
 
@@ -12,6 +13,8 @@
 - 采用服务端生成图片，天然支持更强大的特性（如蒙层、文字特效等）
 - 支持上传 PSD 文件解析成模板，方便导入设计图
 - 提供 AI 抠图功能，上传图片一键去除背景
+
+<div class="v-button" href="javascript:;">快速开始</div> <div class="v-button-plain" href="javascript:;">起步</div>
 
 -----
 
