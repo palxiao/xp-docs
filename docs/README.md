@@ -12,7 +12,7 @@
 - 支持上传 PSD 文件解析成模板，方便导入设计图
 - 提供 AI 抠图功能，上传图片一键去除背景
 
-<div class="v-button" href="javascript:;">快速开始</div> <div class="v-button-plain" href="javascript:;"></div>
+<div class="v-button" href="https://design.palxp.com/">在线体验</div> <div class="v-button-plain" href="https://github.com/palxiao/PalxpDesign">项目源码</div>
 
 -----
 
