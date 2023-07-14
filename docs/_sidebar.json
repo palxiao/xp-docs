@@ -46,5 +46,17 @@
       }
     ],
     "link": ""
+  },
+  {
+    "id": "jxn0J84QQN-mTSpmNeFA2",
+    "label": "关于项目",
+    "children": [
+      {
+        "id": "8e_a4JVKdCpd4oKHrtD2y",
+        "label": "项目起源",
+        "children": [],
+        "link": "articles/1689319986889.md"
+      }
+    ]
   }
 ]
