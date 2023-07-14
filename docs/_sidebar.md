@@ -1,7 +1,7 @@
 * 指南
     * [简介](articles/1687849059649.md)
     * [快速开始](articles/1689319644311.md)
-* 自定义图片模板
+* 功能介绍
     * [PSD上传规范](articles/1687855172725.md)
 * API接口文档
     * [设计器接口](https://xp.palxp.com/apidoc/index.html)
