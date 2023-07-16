@@ -4,6 +4,7 @@
     * [常见问题](articles/1689323321667.md)
 * 功能介绍
     * [PSD模板上传](articles/1687855172725.md)
+    * [AI抠图](articles/1689512694986.md)
 * API接口文档
     * [设计器接口](https://xp.palxp.com/apidoc/index.html)
     * [图片生成器接口](https://xp.palxp.com/apidoc/screenshot.html)
