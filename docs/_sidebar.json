@@ -29,9 +29,15 @@
     "children": [
       {
         "id": "0AzlVR33bD51MlLs1vEwl",
-        "label": "开始你的第一个设计",
+        "label": "开始你的第一张作品",
         "children": [],
         "link": "articles/1689525775414.md"
+      },
+      {
+        "id": "LEMp7zdUMJEGk5q46PzxI",
+        "label": "编辑与设计",
+        "children": [],
+        "link": "articles/1689525922498.md"
       },
       {
         "id": "H9rhq_P-IOXqT8-I7VZJn",
