@@ -1,5 +1,5 @@
 
-<img src="../images/logo.png" style="width: 35%;margin: 0 0 -57px -60px;transform: translateY(-43px);" >
+![](../images/2023-7-16-1689486872977.jpg)
 
 **一款漂亮且功能强大的在线海报图片设计器，仿造稿定设计。**
 
@@ -26,6 +26,8 @@
 - 风格二维码设置，支持单色、渐变、自定义logo等。
 - 图层操作，支持拖拽变更层级。
 - 颜色调色板，原生级取色器颜色吸管（仅Chrome）。
+
+<img src="../images/logo.png" style="width: 35%;margin: 0 0 -57px -60px;transform: translateY(-43px);" >
 
 -----
 
