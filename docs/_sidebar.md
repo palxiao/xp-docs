@@ -3,7 +3,8 @@
     * [项目起源](articles/1689319986889.md)
     * [常见问题](articles/1689323321667.md)
 * 功能介绍
-    * [PSD模板上传](articles/1687855172725.md)
+    * [开始你的第一个设计](articles/1689525775414.md)
+    * [上传PSD模板编辑](articles/1687855172725.md)
     * [AI抠图](articles/1689512694986.md)
 * API接口文档
     * [设计器接口](https://xp.palxp.com/apidoc/index.html)

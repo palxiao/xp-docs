@@ -28,8 +28,14 @@
     "label": "功能介绍",
     "children": [
       {
+        "id": "0AzlVR33bD51MlLs1vEwl",
+        "label": "开始你的第一个设计",
+        "children": [],
+        "link": "articles/1689525775414.md"
+      },
+      {
         "id": "H9rhq_P-IOXqT8-I7VZJn",
-        "label": "PSD模板上传",
+        "label": "上传PSD模板编辑",
         "children": [],
         "link": "articles/1687855172725.md"
       },
