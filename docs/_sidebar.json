@@ -54,6 +54,24 @@
     ]
   },
   {
+    "id": "1StVqyJChdQPvDCFF1Ij6",
+    "label": "深入了解",
+    "children": [
+      {
+        "id": "-7KkxRXdVCiHy2cBPHnTS",
+        "label": "项目架构",
+        "children": [],
+        "link": "articles/1689321259854.md"
+      },
+      {
+        "id": "hq03vVxWFgydZoAhskCXs",
+        "label": "相关技术文章",
+        "children": [],
+        "link": "articles/1689321018561.md"
+      }
+    ]
+  },
+  {
     "id": 1,
     "label": "API接口文档",
     "children": [
@@ -70,24 +88,6 @@
       }
     ],
     "link": ""
-  },
-  {
-    "id": "1StVqyJChdQPvDCFF1Ij6",
-    "label": "深入了解",
-    "children": [
-      {
-        "id": "hq03vVxWFgydZoAhskCXs",
-        "label": "相关技术文章",
-        "children": [],
-        "link": "articles/1689321018561.md"
-      },
-      {
-        "id": "-7KkxRXdVCiHy2cBPHnTS",
-        "label": "项目架构",
-        "children": [],
-        "link": "articles/1689321259854.md"
-      }
-    ]
   },
   {
     "id": "jxn0J84QQN-mTSpmNeFA2",
