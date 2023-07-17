@@ -24,6 +24,10 @@
     margin-right: 1em;
 }
 
+.v-button:hover, .v-button-plain:hover {
+  transform: scale(1.04);
+}
+
 .v-button {
   color: #ffffff !important;
   background-color: #4fc08d;
