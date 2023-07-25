@@ -11,7 +11,7 @@
       },
       {
         "id": "8e_a4JVKdCpd4oKHrtD2y",
-        "label": "项目起源",
+        "label": "关于项目",
         "children": [],
         "link": "articles/1689319986889.md"
       },
@@ -20,12 +20,6 @@
         "label": "常见问题",
         "children": [],
         "link": "articles/1689323321667.md"
-      },
-      {
-        "id": "-obqCIwMsDRjUk9-fWXhV",
-        "label": "关于作者",
-        "children": [],
-        "link": "https://book.palxp.com/"
       }
     ]
   },
@@ -99,6 +93,12 @@
     "id": "jxn0J84QQN-mTSpmNeFA2",
     "label": "更多",
     "children": [
+      {
+        "id": "-obqCIwMsDRjUk9-fWXhV",
+        "label": "关于作者",
+        "children": [],
+        "link": "https://book.palxp.com/"
+      },
       {
         "id": "A9_nDL1ouzylN7mf8ahuW",
         "label": "稿定设计出图方案",
