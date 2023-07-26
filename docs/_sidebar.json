@@ -31,25 +31,29 @@
         "id": "0AzlVR33bD51MlLs1vEwl",
         "label": "开始你的作品",
         "children": [],
-        "link": "articles/1689525775414.md"
+        "link": "articles/1689525775414.md",
+        "hide": true
       },
       {
         "id": "LEMp7zdUMJEGk5q46PzxI",
         "label": "编辑与设计",
         "children": [],
-        "link": "articles/1689525922498.md"
+        "link": "articles/1689525922498.md",
+        "hide": true
       },
       {
         "id": "H9rhq_P-IOXqT8-I7VZJn",
         "label": "上传PSD模板编辑",
         "children": [],
-        "link": "articles/1687855172725.md"
+        "link": "articles/1687855172725.md",
+        "hide": true
       },
       {
         "id": "5x9t_KmuOB48itRPik4yd",
         "label": "体验AI抠图",
         "children": [],
-        "link": "articles/1689512694986.md"
+        "link": "articles/1689512694986.md",
+        "hide": true
       }
     ],
     "link": "articles/1690340329464.md"
