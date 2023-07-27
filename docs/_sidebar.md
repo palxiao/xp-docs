@@ -12,3 +12,4 @@
 * 更多
     * [关于作者](https://book.palxp.com/)
     * [稿定设计出图方案](articles/1689320598619.md)
+    * [图片存档](articles/1690420533254.md)
