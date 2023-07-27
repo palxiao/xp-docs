@@ -114,7 +114,8 @@
         "id": "DoVdxqtlhYn0wZbxTqWsH",
         "label": "图片存档",
         "children": [],
-        "link": "articles/1690420533254.md"
+        "link": "articles/1690420533254.md",
+        "hide": true
       }
     ]
   }
