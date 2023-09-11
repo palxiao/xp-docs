@@ -7,8 +7,8 @@
     * [项目架构](articles/1689321259854.md)
     * [相关技术文章](articles/1689321018561.md)
 * API接口文档
-    * [设计器接口](https://xp.palxp.com/apidoc/index.html)
-    * [图片生成器接口](https://xp.palxp.com/apidoc/screenshot.html)
+    * [设计器接口](https://xp.palxp.cn/apidoc/index.html)
+    * [图片生成器接口](https://xp.palxp.cn/apidoc/screenshot.html)
 * 更多
-    * [关于作者](https://book.palxp.com/)
+    * [关于作者](https://m.palxp.cn/)
     * [稿定设计出图方案](articles/1689320598619.md)
