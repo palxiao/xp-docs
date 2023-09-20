@@ -1,8 +1,8 @@
 * 指南
+    * [功能介绍](articles/1690340329464.md)
     * [快速开始](articles/1689319644311.md)
     * [关于项目](articles/1689319986889.md)
-    * [常见问题](articles/1689323321667.md)
-    * [功能介绍](articles/1690340329464.md)
+    * [更新记录](articles/1695179600445.md)
 * 深入了解
     * [项目架构](articles/1689321259854.md)
     * [相关技术文章](articles/1689321018561.md)
@@ -11,4 +11,5 @@
     * [图片生成器接口](https://xp.palxp.cn/apidoc/screenshot.html)
 * 更多
     * [关于作者](https://m.palxp.cn/)
+    * [常见问题](articles/1689323321667.md)
     * [稿定设计出图方案](articles/1689320598619.md)

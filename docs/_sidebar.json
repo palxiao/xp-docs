@@ -4,25 +4,6 @@
     "label": "指南",
     "children": [
       {
-        "id": "tdT7BCIjThtMKVrb2d_2s",
-        "label": "快速开始",
-        "children": [],
-        "link": "articles/1689319644311.md"
-      },
-      {
-        "id": "8e_a4JVKdCpd4oKHrtD2y",
-        "label": "关于项目",
-        "children": [],
-        "link": "articles/1689319986889.md"
-      },
-      {
-        "id": "YrvmEhZ7nbHkxeCJwqfoe",
-        "label": "常见问题",
-        "children": [],
-        "link": "articles/1689323321667.md",
-        "repo": "palxiao/xp-docs"
-      },
-      {
         "id": "36RnU_2Ui9HcGJQOLphBA",
         "label": "功能介绍",
         "children": [
@@ -56,6 +37,25 @@
           }
         ],
         "link": "articles/1690340329464.md"
+      },
+      {
+        "id": "tdT7BCIjThtMKVrb2d_2s",
+        "label": "快速开始",
+        "children": [],
+        "link": "articles/1689319644311.md"
+      },
+      {
+        "id": "8e_a4JVKdCpd4oKHrtD2y",
+        "label": "关于项目",
+        "children": [],
+        "link": "articles/1689319986889.md"
+      },
+      {
+        "id": "O9cmaCKxMBAuDcSJEgt9J",
+        "label": "更新记录",
+        "children": [],
+        "repo": "palxiao/xp-docs",
+        "link": "articles/1695179600445.md"
       }
     ]
   },
@@ -104,6 +104,13 @@
         "label": "关于作者",
         "children": [],
         "link": "https://m.palxp.cn/"
+      },
+      {
+        "id": "YrvmEhZ7nbHkxeCJwqfoe",
+        "label": "常见问题",
+        "children": [],
+        "link": "articles/1689323321667.md",
+        "repo": "palxiao/xp-docs"
       },
       {
         "id": "A9_nDL1ouzylN7mf8ahuW",
