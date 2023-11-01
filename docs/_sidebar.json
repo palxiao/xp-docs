@@ -143,7 +143,8 @@
         "label": "国内访问Github方法",
         "children": [],
         "repo": "palxiao/xp-docs",
-        "link": "articles/1698832088703.md"
+        "link": "articles/1698832088703.md",
+        "hide": true
       }
     ]
   }

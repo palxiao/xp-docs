@@ -14,4 +14,3 @@
     * [关于作者](https://m.palxp.cn/)
     * [常见问题](articles/1689323321667.md)
     * [稿定设计出图方案](articles/1689320598619.md)
-    * [国内访问Github方法](articles/1698832088703.md)
