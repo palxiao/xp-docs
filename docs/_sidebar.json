@@ -130,7 +130,8 @@
         "id": "A9_nDL1ouzylN7mf8ahuW",
         "label": "稿定设计出图方案",
         "children": [],
-        "link": "articles/1689320598619.md"
+        "link": "articles/1689320598619.md",
+        "hide": true
       },
       {
         "id": "DoVdxqtlhYn0wZbxTqWsH",
