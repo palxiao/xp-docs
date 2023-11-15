@@ -13,3 +13,4 @@
     * [迅排Plus版计划](articles/1698654436243.md)
     * [关于作者](https://m.palxp.cn/)
     * [常见问题](articles/1689323321667.md)
+    * [新建目录/笔记](articles/1700033031890.md)
