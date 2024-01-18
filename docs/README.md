@@ -5,7 +5,7 @@
 适用于多种场景：海报图片生成、电商分享图、文章长图、视频/公众号封面等，无需下载软件即可轻松实现创意，迅速完成排版，感受云上设计带来的便捷与乐趣，让设计更简单！
 
 <div style="display: flex;align-items: center;">
-  <a class="v-button" target="_blank" href="https://design.palxp.cn/">在线体验</a> <a class="v-button-plain" href="https://github.com/palxiao/PalxpDesign">Github</a> <img style="display: inline-block;margin-right: 1em;" src="https://img.shields.io/github/stars/palxiao/poster-design?style=social" /> <a href="https://gitee.com/mirrors/poster-design">Gitee</a>（<a href="https://xp.palxp.cn/#/articles/1698832088703">加速Github?</a>）
+  <a class="v-button" target="_blank" href="https://design.palxp.cn/">在线体验</a> <a class="v-button-plain" href="https://github.com/palxiao/PalxpDesign">Github</a> <img style="display: inline-block;margin-right: 1em;" src="https://img.shields.io/github/stars/palxiao/poster-design?style=social" /> <a href="https://gitee.com/palxiao95/poster-design">Gitee</a>（<a href="https://xp.palxp.cn/#/articles/1698832088703">加速Github?</a>）
 </div>
 
 ### 特点
