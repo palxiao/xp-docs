@@ -39,7 +39,7 @@
 
 <img style="width: 200px;max-width: 100%;" src="../images/2024-3-1-1709306328344.png" />
 
-<img style="width: 240px;max-width: 100%;" src="../images/2024-3-1-1709306365949.png" />
+<img style="width: 280px;max-width: 100%;" src="../images/2024-3-1-1709306365949.png" />
 
 -----
 
