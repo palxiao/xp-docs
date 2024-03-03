@@ -45,7 +45,7 @@
 
 ### 友情赞助商
 
-<a style="text-decoration:none;" href="https://dooring.vip"><img style="display: inline-block;" src="../images/2024-3-1-1709306907030.png" /></a>
+<a style="text-decoration:none;" href="https://dooring.vip"><img style="display: inline-block;" src="../images/2024-3-3-1709450701432.png" /></a>
 
 -----
 
