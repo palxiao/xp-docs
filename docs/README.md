@@ -37,7 +37,7 @@
 
 作者微信：备注加群
 
-<img style="width: 200px;max-width: 100%;" src="../images/2024-3-1-1709306328344.png" />
+<img style="width: 260px;max-width: 100%;" src="../images/2024-3-1-1709306328344.png" />
 
 -----
 
