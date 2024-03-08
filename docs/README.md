@@ -43,8 +43,6 @@
 
 ### 友情赞助商
 
-<a style="text-decoration:none;" href="https://dooring.vip"><img style="display: inline-block;" src="../images/2024-3-3-1709450701432.png" /></a>
-
 | Dooring低代码 | DrawOn桌案 |
 | --- | --- |
 | <a href="https://dooring.vip/"> <img style="height: 90px" src="https://github.com/palxiao/poster-design/assets/21021314/2240801f-8484-4fd2-8505-8205daa6d53c" /></a> | <a href="https://www.drawon.cn?useSource=hb1"> <img style="height: 120px" src="https://github.com/palxiao/poster-design/assets/21021314/258bb6ec-4e1e-4c86-b45c-22946213f209" /></a> |
