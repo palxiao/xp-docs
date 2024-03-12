@@ -55,6 +55,13 @@
         "repo": "palxiao/xp-docs"
       },
       {
+        "id": "-7KkxRXdVCiHy2cBPHnTS",
+        "label": "项目架构",
+        "children": [],
+        "link": "articles/1689321259854.md",
+        "repo": "palxiao/xp-docs"
+      },
+      {
         "id": "O9cmaCKxMBAuDcSJEgt9J",
         "label": "更新日志",
         "children": [],
@@ -67,13 +74,6 @@
     "id": "1StVqyJChdQPvDCFF1Ij6",
     "label": "深入了解",
     "children": [
-      {
-        "id": "-7KkxRXdVCiHy2cBPHnTS",
-        "label": "项目架构",
-        "children": [],
-        "link": "articles/1689321259854.md",
-        "repo": "palxiao/xp-docs"
-      },
       {
         "id": "hq03vVxWFgydZoAhskCXs",
         "label": "相关技术文章",
