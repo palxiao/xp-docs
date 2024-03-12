@@ -5,7 +5,7 @@
     * [项目架构](articles/1689321259854.md)
     * [更新日志](articles/1695179600445.md)
 * 深入了解
-    * [相关技术文章](articles/1689321018561.md)
+    * [掌握图片编辑器开发秘诀](https://wx.zsxq.com/dweb2/index/columns/28888881152111)
 * API接口文档
     * [设计器接口](https://xp.palxp.cn/apidoc/index.html)
     * [图片生成器接口](https://xp.palxp.cn/apidoc/screenshot.html)
