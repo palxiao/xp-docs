@@ -35,9 +35,13 @@
 
 ### 交流群
 
-作者微信：备注加群
+我们尝试沉淀一个高质量内容社区，形成可持续学习的平台，同时解决开发者在项目中遇到的疑难和困惑，帮大家少走一些弯路。
 
-<img style="width: 260px;max-width: 100%;" src="../images/2024-3-1-1709306328344.png" />
+<img style="width: 380px;" src="https://github.com/palxiao/poster-design/assets/21021314/643dcc8b-ef73-4c76-a78c-a7c377b5f268" />
+
+也欢迎关注公众号：品味前端，回复“加群”进行交流。
+
+<img style="width: 380px;" src="https://xp.palxp.cn/images/2024-3-1-1709306365949.png" />
 
 -----
 
