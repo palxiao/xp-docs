@@ -2,9 +2,9 @@
     * [功能介绍](articles/1690340329464.md)
     * [快速开始](articles/1689319644311.md)
     * [关于项目](articles/1689319986889.md)
-    * [项目架构](articles/1689321259854.md)
-    * [更新日志](articles/1695179600445.md)
+    * [常见问题](articles/1689323321667.md)
 * 深入了解
+    * [项目架构](articles/1689321259854.md)
     * [掌握图片编辑器开发秘诀](https://wx.zsxq.com/dweb2/index/columns/28888881152111)
 * API接口文档
     * [设计器接口](https://xp.palxp.cn/apidoc/index.html)
@@ -12,4 +12,4 @@
 * 更多
     * [迅排Plus版计划](articles/1698654436243.md)
     * [关于作者](https://m.palxp.cn/)
-    * [常见问题](articles/1689323321667.md)
+    * [更新日志](articles/1695179600445.md)

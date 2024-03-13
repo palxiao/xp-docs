@@ -55,18 +55,11 @@
         "repo": "palxiao/xp-docs"
       },
       {
-        "id": "-7KkxRXdVCiHy2cBPHnTS",
-        "label": "项目架构",
+        "id": "YrvmEhZ7nbHkxeCJwqfoe",
+        "label": "常见问题",
         "children": [],
-        "link": "articles/1689321259854.md",
+        "link": "articles/1689323321667.md",
         "repo": "palxiao/xp-docs"
-      },
-      {
-        "id": "O9cmaCKxMBAuDcSJEgt9J",
-        "label": "更新日志",
-        "children": [],
-        "repo": "palxiao/xp-docs",
-        "link": "articles/1695179600445.md"
       }
     ]
   },
@@ -74,6 +67,13 @@
     "id": "1StVqyJChdQPvDCFF1Ij6",
     "label": "深入了解",
     "children": [
+      {
+        "id": "-7KkxRXdVCiHy2cBPHnTS",
+        "label": "项目架构",
+        "children": [],
+        "link": "articles/1689321259854.md",
+        "repo": "palxiao/xp-docs"
+      },
       {
         "id": "hq03vVxWFgydZoAhskCXs",
         "label": "掌握图片编辑器开发秘诀",
@@ -120,11 +120,11 @@
         "repo": "palxiao/xp-docs"
       },
       {
-        "id": "YrvmEhZ7nbHkxeCJwqfoe",
-        "label": "常见问题",
+        "id": "O9cmaCKxMBAuDcSJEgt9J",
+        "label": "更新日志",
         "children": [],
-        "link": "articles/1689323321667.md",
-        "repo": "palxiao/xp-docs"
+        "repo": "palxiao/xp-docs",
+        "link": "articles/1695179600445.md"
       },
       {
         "id": "A9_nDL1ouzylN7mf8ahuW",
