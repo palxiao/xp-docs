@@ -13,7 +13,7 @@
 - 丝滑的页面操作体验，丰富的交互细节，基础功能完善
 - 采用服务端生成图片，确保多端出图统一性，支持各种 HTML5 特性
 - 简易 AI 抠图工具，上传图片一键去除背景
-- 技术栈：Vue3 、Vite2 、Vuex 、ElementPlus，开发体验畅快
+- 技术栈：Vue3 、Vite5 、Vuex 、ElementPlus，开发体验畅快
 - 图片生成：Puppeteer、Express
 
 ![](../images/2023-11-20-1700443765831.png)
