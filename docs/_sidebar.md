@@ -9,6 +9,6 @@
     * [设计器接口](https://xp.palxp.cn/apidoc/index.html)
     * [图片生成器接口](https://xp.palxp.cn/apidoc/screenshot.html)
 * 更多
-    * [迅排Plus版计划](articles/1698654436243.md)
+    * [迅排 Plus 技术支持](articles/1698654436243.md)
     * [关于作者](https://m.palxp.cn/)
     * [更新日志](articles/1695179600445.md)
